@@ -2,8 +2,6 @@
 <h3 align="center">MERN stack dev | inquisitive</h3>
 
 
-<p align="left"> <a href="https://twitter.com/@rithikm15" target="blank"><img src="https://img.shields.io/twitter/follow/@rithikm15?logo=twitter&style=for-the-badge" alt="@rithikm15" /></a> </p>
-
 - 🌱 I’m currently learning **Fullstack and DevOps**
 
 - 📫 How to reach me **https://twitter.com/RithikM15**
